@@ -1,0 +1,49 @@
+{
+    "name": "Nepal Driving License Exam Simulator",
+    "short_name": "License Exam",
+    "description": "नेपालको सवारी चालक अनुमतिपत्र लिखित परीक्षाको निःशुल्क अभ्यास। Free online driving license trial test Nepal based on official DoTM syllabus.",
+    "lang": "ne",
+    "start_url": "/",
+    "scope": "/",
+    "display": "standalone",
+    "orientation": "portrait",
+    "theme_color": "#1a1a2e",
+    "background_color": "#0f0f1a",
+    "icons": [
+        {
+            "src": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 192 192'><rect fill='%238B5CF6' width='192' height='192' rx='40'/><text x='96' y='120' font-size='80' text-anchor='middle' fill='white'>🚗</text></svg>",
+            "sizes": "192x192",
+            "type": "image/svg+xml",
+            "purpose": "any"
+        },
+        {
+            "src": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 512 512'><rect fill='%238B5CF6' width='512' height='512' rx='100'/><text x='256' y='320' font-size='200' text-anchor='middle' fill='white'>🚗</text></svg>",
+            "sizes": "512x512",
+            "type": "image/svg+xml",
+            "purpose": "any maskable"
+        }
+    ],
+    "categories": ["education", "utilities"],
+    "screenshots": [],
+    "prefer_related_applications": false,
+    "shortcuts": [
+        {
+            "name": "Start Practice Test",
+            "short_name": "Practice",
+            "description": "Start a new practice test",
+            "url": "/?action=start",
+            "icons": [
+                {
+                    "src": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 96 96'><rect fill='%2310B981' width='96' height='96' rx='20'/><text x='48' y='65' font-size='50' text-anchor='middle' fill='white'>▶</text></svg>",
+                    "sizes": "96x96"
+                }
+            ]
+        }
+    ],
+    "related_applications": [],
+    "dir": "ltr",
+    "display_override": ["standalone", "minimal-ui"],
+    "edge_side_panel": {
+        "preferred_width": 400
+    }
+}
