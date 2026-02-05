@@ -1,169 +1,136 @@
-
 [
   {
-    "question": "नेपालमा सवारी चालक अनुमतिपत्रको लागि आवेदन कहाँबाट सुरु गर्नुपर्छ? (Where to start application for driving license in Nepal?)",
+    "question": "सवारी साधन चलाउँदा अनिवार्य रूपमा के राख्नुपर्छ? (What is mandatory to carry while driving a vehicle?)",
     "options": [
-      "क) ट्राफिक प्रहरी कार्यालय (Traffic police office)",
-      "ख) यातायात व्यवस्था विभागको अनलाइन पोर्टल (DoTM online portal)",
-      "ग) जिल्ला प्रशासन (District administration)",
-      "घ) स्थानीय वडा कार्यालय (Local ward office)"
+      "क) मोबाइल फोन (Mobile phone)",
+      "ख) सवारी चालक अनुमतिपत्र (Driving license)",
+      "ग) खाना (Food)",
+      "घ) छाता (Umbrella)"
     ],
     "correctAnswer": 1,
-    "explanation": "सवारी चालक अनुमतिपत्रको आवेदन DoTM को आधिकारिक वेबसाइट dotm.gov.np बाट अनलाइन रूपमा सुरु गर्नुपर्छ। [1][2][3] (Application starts online via DoTM portal dotm.gov.np.)"
+    "explanation": "सवारी साधन चलाउँदा सवारी चालक अनुमतिपत्र अनिवार्य हुन्छ। (Driving license is mandatory while driving.)"
   },
   {
-    "question": "ड्राइभिङ लाइसेन्स आवेदनको पहिलो चरण के हो? (What is the first step for driving license application?)",
+    "question": "रातो ट्राफिक बत्तीको अर्थ के हो? (What does the red traffic light mean?)",
     "options": [
-      "क) लिखित परीक्षा (Written exam)",
-      "ख) अनलाइन फारम भर्नु (Online form submission)",
-      "ग) ट्रायल परीक्षा (Trial exam)",
-      "घ) बायोमेट्रिक (Biometric)"
+      "क) जान देऊ (Go)",
+      "ख) रोक (Stop)",
+      "ग) सावधानी (Caution)",
+      "घ) मोड (Turn)"
     ],
     "correctAnswer": 1,
-    "explanation": "पहिलो चरण अनलाइन आवेदन फारम भर्नु हो, जसमा कोटा उपलब्ध दिनहरूमा मात्र खुल्छ। [1][3][4] (First step is online form submission on quota days.)"
+    "explanation": "रातो बत्तीले रोक्ने संकेत गर्छ। (Red light means stop.)"
   },
   {
-    "question": "लाइसेन्स आवेदनका लागि अनिवार्य कागजात के हो? (What is mandatory document for license application?)",
+    "question": "हरियो बत्तीको अर्थ के हो? (What does green light indicate?)",
     "options": [
-      "क) प्यान कार्ड (PAN card)",
-      "ख) नागरिकता प्रमाणपत्र (Citizenship certificate)",
-      "ग) भोटर आईडी (Voter ID)",
-      "घ) आधार कार्ड (Aadhaar card)"
+      "क) रोक (Stop)",
+      "ख) जान देऊ (Go)",
+      "ग) तयारी (Ready)",
+      "घ) सावधानी (Caution)"
     ],
     "correctAnswer": 1,
-    "explanation": "नागरिकता प्रमाणपत्र (ओरिजिनल र फोटोकपी) सबै आवेदनका लागि अनिवार्य छ। [1][5][4] (Citizenship certificate original and copy is mandatory.)"
-  }
-]
+    "explanation": "हरियो बत्तीले अगाडि बढ्न संकेत गर्छ। (Green light means go.)"
+  },
+  {
+    "question": "पहेंलो बत्तीको अर्थ के हो? (What does yellow light mean?)",
+    "options": [
+      "क) रोक (Stop)",
+      "ख) जान देऊ (Go)",
+      "ग) सावधानी (Caution)",
+      "घ) गति बढाऊ (Speed up)"
+    ],
+    "correctAnswer": 2,
+    "explanation": "पहेंलो बत्तीले सावधानी अपनाउन संकेत गर्छ। (Yellow light means caution.)"
+  },
+  {
+    "question": "मोटरसाइकल चलाउँदा अनिवार्य के लगाउनुपर्छ? (What is mandatory while riding a motorcycle?)",
+    "options": [
+      "क) क्याप (Cap)",
+      "ख) हेलमेट (Helmet)",
+      "ग) जुत्ता (Shoes)",
+      "घ) मास्क (Mask)"
+    ],
+    "correctAnswer": 1,
+    "explanation": "हेलमेट लगाउनु कानुनी रूपमा अनिवार्य छ। (Helmet is legally mandatory.)"
+  },
+  {
+    "question": "सहरी क्षेत्रमा मोटरसाइकलको अधिकतम गति कति हो? (Maximum speed in urban area?)",
+    "options": [
+      "क) 40 km/h",
+      "ख) 50 km/h",
+      "ग) 60 km/h",
+      "घ) 80 km/h"
+    ],
+    "correctAnswer": 0,
+    "explanation": "सहरी क्षेत्रमा अधिकतम गति 40 km/h हो। (Urban speed limit is 40 km/h.)"
+  },
+  {
+    "question": "ओभरटेक गर्दा कुन साइडबाट गर्नुपर्छ? (From which side should overtaking be done?)",
+    "options": [
+      "क) दाहिने (Right)",
+      "ख) बायाँ (Left)",
+      "ग) दुबै (Both)",
+      "घ) जहाँसुकै (Anywhere)"
+    ],
+    "correctAnswer": 0,
+    "explanation": "ओभरटेक सधैं दाहिने साइडबाट गर्नुपर्छ। (Overtaking must be from the right side.)"
+  },
+  {
+    "question": "जेब्रा क्रसिङ कसका लागि हो? (Who is zebra crossing for?)",
+    "options": [
+      "क) सवारी साधन (Vehicles)",
+      "ख) पैदल यात्री (Pedestrians)",
+      "ग) साइकल (Bicycles)",
+      "घ) पार्किङ (Parking)"
+    ],
+    "correctAnswer": 1,
+    "explanation": "जेब्रा क्रसिङ पैदल यात्रीका लागि हो। (Zebra crossing is for pedestrians.)"
+  },
+  {
+    "question": "सवारी दुर्घटना भएमा पहिलो काम के हो? (First action in an accident?)",
+    "options": [
+      "क) भाग्ने (Run away)",
+      "ख) घाइतेलाई सहयोग गर्ने (Help injured)",
+      "ग) गाडी लुकाउने (Hide vehicle)",
+      "घ) भिडियो बनाउने (Record video)"
+    ],
+    "correctAnswer": 1,
+    "explanation": "घाइतेलाई सहयोग र प्रहरीलाई खबर गर्नुपर्छ। (Help injured and inform police.)"
+  },
+  {
+    "question": "ड्राइभिङ गर्दा मोबाइल कहिले प्रयोग गर्न मिल्छ? (When can a phone be used while driving?)",
+    "options": [
+      "क) चलाउँदा (While driving)",
+      "ख) ह्यान्ड्सफ्रीमा (Handsfree)",
+      "ग) गाडी रोकेपछि (After stopping)",
+      "घ) जहिले पनि (Anytime)"
+    ],
+    "correctAnswer": 2,
+    "explanation": "गाडी रोकेपछि मात्र मोबाइल प्रयोग गर्न मिल्छ। (Use phone only after stopping.)"
+  },
 
-## Exams and Tests
-[
   {
-    "question": "लाइसेन्सका लागि लिखित परीक्षा कस्तो हुन्छ? (What is the written exam for license like?)",
+    "question": "सिट बेल्ट कसले लगाउनुपर्छ? (Who must wear seat belt?)",
     "options": [
-      "क) हातले लेख्ने (Handwritten)",
-      "ख) कम्प्युटर आधारित (Computer-based)",
-      "ग) मौखिक (Oral)",
-      "घ) मोबाइल एपबाट (Mobile app)"
+      "क) चालक मात्र (Driver only)",
+      "ख) अगाडिको यात्रु (Front passenger)",
+      "ग) चालक र अगाडि बस्ने दुवै (Both)",
+      "घ) सबै यात्रु (All passengers)"
     ],
-    "correctAnswer": 1,
-    "explanation": "लिखित परीक्षा कम्प्युटर आधारित हुन्छ जसमा ट्राफिक नियमहरू समावेश छन्, पास मार्क ४०/६०। [1][3][5] (Written exam is computer-based with 40/60 pass marks on traffic rules.)"
+    "correctAnswer": 2,
+    "explanation": "चालक र अगाडि बस्ने दुवैले सिट बेल्ट लगाउनुपर्छ। (Driver and front passenger must wear seat belts.)"
   },
-  {
-    "question": "ट्रायल (प्राक्टिकल) परीक्षामा न्यूनतम कति अंक चाहिन्छ? (Minimum points needed in practical test?)",
-    "options": [
-      "क) ४० अंक (40 points)",
-      "ख) ५० अंक (50 points)",
-      "ग) ६० अंक (60 points)",
-      "घ) ७० अंक (70 points)"
-    ],
-    "correctAnswer": 0,
-    "explanation": "ट्रायल परीक्षा ७० अंकको हुन्छ, पासका लागि कम्तीमा ४० अंक चाहिन्छ। [6][5] (Practical test is 70 points; pass with at least 40.)"
-  },
-  {
-    "question": "ट्रायल परीक्षामा फिगर ८ मा सीमा छुने गर्दा के हुन्छ? (What if boundary touched in Figure 8 test?)",
-    "options": [
-      "क) दुई पटकसम्म ५ अंक कटौती (Twice deduct 5 points each)",
-      "ख) एक पटकमा फेल (Fail on first touch)",
-      "ग) कुनै असर हुँदैन (No effect)",
-      "घ) पूरै परीक्षा फेल (Entire test fail)"
-    ],
-    "correctAnswer": 0,
-    "explanation": "फिगर ८ मा दुई पटक छुने गर्दा प्रत्येकमा ५ अंक कट्छ, तेस्रो पटक फेल। [6] (Deduct 5 points per touch up to twice; fail on third.)"
-  },
-  {
-    "question": "र्‍याम्प परीक्षामा गाडी लाइनभन्दा पछाडि ६ इन्चभन्दा बढी सर्छ भने के हुन्छ? (What if vehicle slips more than 6 inches behind line on ramp?)",
-    "options": [
-      "क) ५ अंक कटौती (Deduct 5 points)",
-      "ख) पूरै परीक्षा फेल (Entire test fail)",
-      "ग) पास हुन्छ (Pass)",
-      "घ) दोस्रो मौका (Second chance)"
-    ],
-    "correctAnswer": 1,
-    "explanation": "र्‍याम्पमा गाडी ६ इन्चभन्दा बढी पछाडि सर्छ वा लाइन नरोकी अगाडि बढ्छ भने पूरै फेल। [6] (Fail entire test if slips more than 6 inches or doesn't stop on line.)"
-  }
-]
 
-## Renewal and Validity
-[
   {
-    "question": "नेपालमा सवारी चालक अनुमतिपत्र सामान्यतया कति वर्षसम्म वैध हुन्छ? (Standard validity of driving license in Nepal?)",
+    "question": "राति गाडी चलाउँदा कुन बत्ती प्रयोग गर्नुपर्छ? (Which light should be used at night?)",
     "options": [
-      "क) २ वर्ष (2 years)",
-      "ख) ५ वर्ष (5 years)",
-      "ग) १० वर्ष (10 years)",
-      "घ) आजीवन (Lifetime)"
+      "क) पार्किङ लाइट (Parking light)",
+      "ख) हाई बिम (High beam)",
+      "ग) लो बिम (Low beam)",
+      "घ) इमरजेन्सी (Emergency)"
     ],
-    "correctAnswer": 1,
-    "explanation": "सामान्य लाइसेन्स ५ वर्ष वैध हुन्छ, नवीकरण ३० दिन अघि सुरु गर्न सकिन्छ। [7][5] (Standard validity is 5 years; renew 30 days before expiry.)"
-  },
-  {
-    "question": "लाइसेन्स नवीकरणका लागि अनिवार्य के चाहिन्छ? (What is mandatory for license renewal?)",
-    "options": [
-      "क) ट्राफिक चालान (Traffic fine payment)",
-      "ख) स्वास्थ्य प्रमाणपत्र (Medical certificate)",
-      "ग) नयाँ नागरिकता (New citizenship)",
-      "घ) कुनै पनि होइन (None)"
-    ],
-    "correctAnswer": 1,
-    "explanation": "नवीकरणका लागि वैध स्वास्थ्य प्रमाणपत्र र फाइन नभएको हुनुपर्छ। [7][5] (Valid medical certificate required for renewal.)"
-  },
-  {
-    "question": "लाइसेन्स सकिएपछि कति दिनसम्म ग्रेस पिरियड हुन्छ? (Grace period after license expiry?)",
-    "options": [
-      "क) ३० दिन (30 days)",
-      "ख) ९० दिन (90 days)",
-      "ग) ६ महिना (6 months)",
-      "घ) १ वर्ष (1 year)"
-    ],
-    "correctAnswer": 1,
-    "explanation": "लाइसेन्स सकिएपछि ९० दिन ग्रेस पिरियड हुन्छ, ढिलो गर्दा जरिवाना लाग्छ। [5] (90 days grace period post-expiry with late fees.)"
-  }
-]
-
-## Eligibility and Categories
-[
-  {
-    "question": "मोटरसाइकल लाइसेन्स (A वर्ग) का लागि न्यूनतम उमेर के हो? (Minimum age for motorcycle license A category?)",
-    "options": [
-      "क) १६ वर्ष (16 years)",
-      "ख) १८ वर्ष (18 years)",
-      "ग) २० वर्ष (20 years)",
-      "घ) २१ वर्ष (21 years)"
-    ],
-    "correctAnswer": 1,
-    "explanation": "मोटरसाइकल (A) र स्कुटर (K) का लागि १८ वर्ष उमेर चाहिन्छ। [1][4] (Minimum 18 years for A/motorcycle category.)"
-  },
-  {
-    "question": "लाइसेन्स परीक्षा फेल भए पुन: परीक्षा कहिले दिन सकिन्छ? (When can retake exam if failed?)",
-    "options": [
-      "क) तुरुन्तै (Immediately)",
-      "ख) ९० दिनभित्र दुई पटक (Twice within 90 days)",
-      "ग) ६ महिनापछि (After 6 months)",
-      "घ) नयाँ आवेदन चाहिन्छ (New application needed)"
-    ],
-    "correctAnswer": 1,
-    "explanation": "ट्रायल फेल भए ९० दिनभित्र दुई पटक पुन: परीक्षा दिन सकिन्छ। [8] (Retake practical twice within 90 days if failed.)"
-  },
-  {
-    "question": "प्रोफेसनल ड्राइभर लाइसेन्सका लागि थप के चाहिन्छ? (Additional for professional driver license?)",
-    "options": [
-      "क) अनुभव प्रमाणपत्र (Experience certificate)",
-      "ख) कलेज डिग्री (College degree)",
-      "ग) विदेश भ्रमण (Foreign travel)",
-      "घ) कुनै थप चाहिँदैन (Nothing extra)"
-    ],
-    "correctAnswer": 0,
-    "explanation": "प्रोफेसनल लाइसेन्सका लागि अनुभव प्रमाणपत्र र चरित्र प्रमाणपत्र चाहिन्छ। [5] (Experience and character certificates for professional licenses.)"
-  },
-  {
-    "question": "स्मार्ट ड्राइभिङ लाइसेन्स कुनै एक समयमा कति वर्ग आवेदन गर्न सकिन्छ? (How many categories at once for smart license?)",
-    "options": [
-      "क) एक मात्र (Only one)",
-      "ख) दुई (Two)",
-      "ग) सबै (All)",
-      "घ) तीन (Three)"
-    ],
-    "correctAnswer": 0,
-    "explanation": "एक समयमा एउटा वर्ग (जस्तै A वा K) मात्र आवेदन गर्न सकिन्छ। [4] (Only one category like A or K at a time.)"
+    "correctAnswer": 2,
+    "explanation": "राति लो बिम प्रयोग गर्नुपर्छ। (Low beam should be used at night.)"
   }
 ]
